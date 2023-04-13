@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Murat/Desktop/k/temp1/temp1.srcs/sources_1/new/circuit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module circuit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Murat/Desktop/k/temp1/temp1.srcs/sources_1/new/maincircuit.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module maincircuit
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/Murat/Desktop/k/temp1/temp1.srcs/sim_1/new/testebench.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module testebench

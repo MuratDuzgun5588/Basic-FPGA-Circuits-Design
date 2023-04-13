@@ -1,0 +1,33 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Fri Nov 11 10:54:39 2022
+# Process ID: 4104
+# Current directory: C:/Users/Murat/Desktop/k
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16112 C:\Users\Murat\Desktop\k\project_1.xpr
+# Log file: C:/Users/Murat/Desktop/k/vivado.log
+# Journal file: C:/Users/Murat/Desktop/k\vivado.jou
+# Running On: DESKTOP-IR2JO8A, OS: Windows, CPU Frequency: 3593 MHz, CPU Physical cores: 6, Host memory: 17126 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/Users/Murat/Desktop/k/project_1.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project C:/Users/Murat/Desktop/a/decoder/decoder.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project C:/Users/Murat/Desktop/a/project_9.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project C:/Users/Murat/Desktop/k/project_1.xpr
+update_compile_order -fileset sources_1
+close_project
+open_project C:/Users/Murat/Desktop/a/internetornegi/internetornegi.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source testbench.tcl
+close_sim
+close_project
+open_project C:/Users/Murat/Desktop/a/project_9.xpr
+update_compile_order -fileset sources_1
